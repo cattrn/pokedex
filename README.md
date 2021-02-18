@@ -1,6 +1,6 @@
 # My cool pokedex app!
 
-This is amazing, its going to change the world
+This is amazing, its going to change the world. It's going to be the very best, like no one ever was.
 
 ## Installation
 
